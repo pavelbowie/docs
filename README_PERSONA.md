@@ -6,7 +6,7 @@
 
 ## Description
 
-REES46 SDK for iOS platform - the wide toolset for eCommerce apps.  
+PersonaClick SDK for iOS platform - the wide toolset for eCommerce apps.  
 This SDK can be used to integrate in your own app for iOS in few steps.
 
 ## Documentation
