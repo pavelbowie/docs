@@ -12,7 +12,7 @@ For detailed information on methods, please refer to the documentation available
 
 ## Author
 
-PersonaClick, «support@personaclick.com»
+PersonaClick, support@personaclick.com
 
 ## License
 
